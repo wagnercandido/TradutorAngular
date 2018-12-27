@@ -1,4 +1,6 @@
-# App1
+É um projeto simples e estático de aprendizado, utilizando angular Cli.
+
+# TradutorAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
